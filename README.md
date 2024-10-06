@@ -73,7 +73,12 @@
             </ul>
           </ul>
         </li>
-        <li><a href="#deceptiontech">🤥 Deception Technology</a></li>
+        <li>
+          <a href="#deceptiontech">🤥 Deception Technology</a>
+          <ul>
+            <li><a href="#competitors">🏆 Competitors</a></li>
+          </ul>
+        </li>
         <li><a href="#comparison">📁 Comparison</a></li>
       </ul>
     </li>
@@ -416,6 +421,20 @@ In contrast to honeynets, deception technology offers more accurate and valuable
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+#### 🏆 Competitors <a id="competitors"></a>
+Below is a selection of some of the main competitors who offer deception technology solutions:
+- [Broadcom, Inc.](https://www.broadcom.com/products/cybersecurity/endpoint/end-user/enterprise)
+- [Fortinet, Inc.](https://www.fortinet.com/products/fortideceptor)
+- [Rapid7, Inc.](https://www.rapid7.com/solutions/deception-technology/)
+- [CyberArk Software Ltd.](https://www.cyberark.com/products/endpoint-privilege-manager/)
+- [Zscaler, Inc.](https://www.zscaler.com/products-and-solutions/zero-trust-exchange-zte)
+- [Check Point Software Technologies Ltd.](https://www.checkpoint.com/infinity/xdr-xpr/)
+- [CounterCraft Group](https://www.countercraftsec.com/landings/request-a-demo/)
+
+These companies provides deception technology solutions, striving to deceive attackers, record valuable data about their behavior, and ultimately reinforce security defenses through enhanced visibility and response capabilities.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### 📁 Comparison <a id="comparison"></a>
 Here is an elaborated table to illustrate the main differences between both technologies:
 
@@ -447,7 +466,6 @@ Here are some additional resources that you may find useful:
 - **[T-POT](https://github.com/telekom-security/tpotce/)**: Open-source honeynet that integrates different honeypots with a unified management interface.
 - **[Elastic Stack Documentation](https://www.elastic.co/guide/en/elastic-stack/)**: Official documentation for the ELK stack (Elasticsearch, Logstash, and Kibana), used for log management and visualisation.
 - **[The Honeynet Project](https://www.honeynet.org)**: Leading international non-profit security research organisation dedicated to investigating the latest attacks and developing open-source security tools to improve Internet security.
-- **[FortiDeceptor](https://www.fortinet.com/resources/cyberglossary/what-is-deception-technology)**: Deception technology solution by Fortinet.
 - **[HoneyDB](https://honeydb.io/)**: Public database of attack information captured by honeypots around the world.
 - **[ATT&CK Framework](https://attack.mitre.org/)**: MITRE's knowledge of diverse attack techniques based on real-world observations.
 
