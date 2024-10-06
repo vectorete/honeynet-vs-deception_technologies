@@ -152,7 +152,7 @@ tpotce/install.sh
 
 <div align="center">
   <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/blob/main/GUIDE.md">
-    <img src="images/tpotinstall.png" alt="tpot_install" width="80%">
+    <img src="images/tpotinstall.png" alt="tpot_install" width="60%">
   </a>
 </div>
 
@@ -171,7 +171,7 @@ Introduce your desired web name and the desired password for log web managament 
 
 <div align="center">
   <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/blob/main/GUIDE.md">
-    <img src="images/tpotinstalled.png" alt="tpot_installed" width="80%">
+    <img src="images/tpotinstalled.png" alt="tpot_installed" width="60%">
   </a>
 </div>
 
