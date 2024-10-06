@@ -56,6 +56,7 @@
         <li>
           <a href="#honeynet">🍯 Honeynet</a>
           <ul>
+            <li><a href="#live">🔴 Live Attack Map</a></li>
             <li><a href="#honeynet-analysis">📊 Analysis</a></li>
             <ul>
               <li><a href="#honeynet-summary">📝 Honeynet summary - T-POT</a></li>
@@ -277,6 +278,12 @@ We will be comparing the advantages and disadvantages of both technologies.
 A honeynet is an advanced honeypot implementation that consists of a carefully selected network of honeypots working together to simulate a realistic environment. This architecture is designed to lure attackers and monitor their behaviour, appearing as valuable as possible. By constantly logging data from the different attack attempts, the data can be rigurously analysed in a log management platform like ELK Stack, Splunk, and QRADAR, among others.
 
 The main Honeynet open-source project is [T-POT](https://github.com/telekom-security/tpotce/). More of these tools and projects can be found in [The Honeynet Project](https://www.honeynet.org), a leading international non-profit security research organisation dedicated to investigating the latest attacks and developing open-source security tools to improve Internet security.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### 🔴 Live Attack Map<a id="live"></a>
+The attacks targeting our honeynet are shown in real time on this video, along with the origin of each attack on a worldwide map to visually represent the global distribution of threats.
+[![Demo](https://img.youtube.com/vi/UbHiqY72H9I/0.jpg)](https://youtu.be/UbHiqY72H9I)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -520,4 +527,4 @@ Project Link: [https://github.com/vectorete/honeynet-vs-deception_technologies](
 [license-shield]: https://img.shields.io/github/license/vectorete/honeynet-vs-deception_technologies.svg?style=for-the-badge
 [license-url]: https://github.com/vectorete/honeynet-vs-deception_technologies/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/victorkvorkevych/
+[linkedin-url]: https://www.linkedin.com/in/victorkvor/
