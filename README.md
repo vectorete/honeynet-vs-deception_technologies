@@ -125,7 +125,7 @@ Side-by-side comparison of both technologies, showcasing their advantages and di
 ### 🖧 T-POT Topology - Host Environment <a id="topology"></a>
 <div align="center">
   <a href="https://github.com/vectorete/honeynet-vs-deception_technologies">
-    <img src="images/topology.png" alt="Logo" width="30%">
+    <img src="images/tpot-topology.png" alt="Logo" width="30%">
   </a>
 </div>
 
