@@ -113,7 +113,7 @@ su - <username>
 ### Installing T-POT
 
 <div align="center">
-  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/GUIDE.md">
+  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/blob/main/GUIDE.md">
     <img src="images/tpot-topology.png" alt="tpot_topology" width="80%">
   </a>
 </div>
@@ -151,7 +151,7 @@ tpotce/install.sh
 ```
 
 <div align="center">
-  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/GUIDE.md">
+  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/blob/main/GUIDE.md">
     <img src="images/tpotinstall.png" alt="tpot_install" width="80%">
   </a>
 </div>
@@ -162,7 +162,7 @@ tpotce/install.sh
 Choose the Hive installation mode, which is the standard mode:
 
 <div align="center">
-  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/GUIDE.md">
+  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/blob/main/GUIDE.md">
     <img src="images/tpotinstallationmode.png" alt="tpot_install_mode" width="80%">
   </a>
 </div>
@@ -170,7 +170,7 @@ Choose the Hive installation mode, which is the standard mode:
 Introduce your desired web name and the desired password for log web managament with Kibana.
 
 <div align="center">
-  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/GUIDE.md">
+  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/blob/main/GUIDE.md">
     <img src="images/tpotinstalled.png" alt="tpot_installed" width="80%">
   </a>
 </div>
@@ -193,7 +193,7 @@ Now you can enter to `https://<YOUR-VM-CLOUD-IP>:64297` from your home network t
 
 You can set the range datatime for the logs:
 <div align="center">
-  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/GUIDE.md">
+  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/blob/main/GUIDE.md">
     <img src="images/tpot-daterange.png" alt="tpot_date_range" width="80%">
   </a>
 </div>
